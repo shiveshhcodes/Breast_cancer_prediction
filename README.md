@@ -17,10 +17,10 @@ This project is a **web-based application** that predicts the likelihood of brea
 ---
 
 ## 🛠️ Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript *(Add framework/library if used)*  
-- **Backend:** Python *(Flask/FastAPI if used)*  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy, Matplotlib  
-- **Deployment:** Netlify *(Frontend)*, [Heroku/Render/Other] *(Backend if applicable)*  
+- **Frontend:** HTML, CSS, react, vite.  
+- **Backend:** Python *Flask*  
+- **Machine Learning:** Scikit-learn, Pandas.  
+- **Deployment:** Netlify *(Frontend)*, Heroku *(Backend)*  
 
 ---
 
@@ -39,7 +39,7 @@ The machine learning model is trained on the **Breast Cancer Wisconsin (Diagnost
 │   ├── styles.css                    # Stylesheet
 │   └── script.js                     # JavaScript logic and API calls
 ├── requirements.txt                  # Project dependencies
-├── app.py (if applicable)            # Backend API for model integration
+├── app.py                            # Backend API for model integration
 └── README.md                         # Project documentation
 ```
 
@@ -89,7 +89,7 @@ The machine learning model is trained on the **Breast Cancer Wisconsin (Diagnost
 ---
 
 ## 📈 Results  
-✅ Model Accuracy: **[Add Accuracy]%** *(Replace with actual accuracy from the notebook)*  
+✅ Model Accuracy: **98.6%** 
 ✅ High precision and recall on test data.  
 
 ---
@@ -103,9 +103,8 @@ The machine learning model is trained on the **Breast Cancer Wisconsin (Diagnost
 ---
 
 ## 👨‍💻 Contributors  
-- [Your Name] – Project Lead & Developer  
-- [Other Contributors (if any)]  
-
+- Kishan km – Project Lead & Developer
+- 
 ---
 
 ## 📝 License  
@@ -114,9 +113,7 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 ---
 
 ## 🙏 Acknowledgments  
-- UCI Machine Learning Repository for providing the dataset.  
-- OpenAI and other community resources for guidance.  
-- [Any other acknowledgments you’d like to add]  
+- UCI Machine Learning Repository for providing the dataset. 
 
 ---
 
