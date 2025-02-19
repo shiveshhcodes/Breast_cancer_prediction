@@ -104,7 +104,7 @@ The machine learning model is trained on the **Breast Cancer Wisconsin (Diagnost
 
 ## 👨‍💻 Contributors  
 - Kishan km – Project Lead & Developer
-- 
+  
 ---
 
 ## 📝 License  
